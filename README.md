@@ -1,5 +1,4 @@
 # Exam
-- papaya shake
 - banana shake
 - apple shake
 ## Fruits
