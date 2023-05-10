@@ -1,5 +1,5 @@
 # Exam
 ## Fruits
 - **apple**
-- banana
+- *banana*
 - papaya
